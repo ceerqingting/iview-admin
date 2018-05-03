@@ -1,0 +1,1 @@
+export default {moduleachilda: () => import('./modulea/moduleachilda'), moduleachildb: () => import('./modulea/moduleachildb'), modulebchilda: () => import('./moduleb/modulebchilda'), modulebchildb: () => import('./moduleb/modulebchildb')}
